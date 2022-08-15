@@ -1,0 +1,26 @@
+
+body{
+  overflow: inherit;
+}
+
+.hide{
+  display: none;
+}
+
+#my_photo_one img, #my_photo_two img, #my_photo_three img {
+  max-width: 400px;
+  max-height: 400px;
+}
+
+.about_me{
+  text-align: center;
+}
+
+.footer_text{
+  text-align: center;
+}
+
+.view_all_recipies{
+  max-width: 90%;
+  height: 100%;
+  }
